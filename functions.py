@@ -7,3 +7,5 @@ def sub(x,y):
 def mul(x,y):
     pass
 
+def square(x):
+    return x
